@@ -11,15 +11,26 @@
             "id": "b1f5e39399cf6234",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "file/1b4bd7eab3ab6b28e7332b85cee8ca97_MD5.jpeg"
+              }
+            }
+          },
+          {
+            "id": "903af6c81726756a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "AIGC/数码博主.md",
+                "file": "file/readme.md.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIGC/数码博主.md",
+                "file": "file/readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIGC/数码博主.md",
+                "file": "file/readme.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIGC/数码博主.md"
+                "file": "file/readme.md.md"
               }
             }
           }
@@ -147,53 +158,52 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "b1f5e39399cf6234",
+  "active": "903af6c81726756a",
   "lastOpenFiles": [
-    "AIGC/AIGC.md",
-    "AIGC/AI工具合集.md",
+    "file/1b4bd7eab3ab6b28e7332b85cee8ca97_MD5.jpeg",
+    "file/readme.md.md",
+    "AIGC/@附件",
+    "file/Pasted image 20230510180850.png",
+    "file/Pasted image 20230519024551.png",
+    "数码博主.md",
+    "AIGC.md",
+    "AI工具合集.md",
     "SILVI v2 升级方法 - （超级智能大视野图像）.md",
-    "@附件/cb7b06b1f464b2cf5c9464bf5f7921a7_MD5.jpeg",
+    "file/cb7b06b1f464b2cf5c9464bf5f7921a7_MD5.jpeg",
     "@附件/Pasted image 20240630015708.png",
-    "@附件/065cc55abbcc6740fb0568fc4bbd9598_MD5.jpeg",
+    "file/065cc55abbcc6740fb0568fc4bbd9598_MD5.jpeg",
     "@附件/Pasted image 20240630015601.png",
-    "@附件/1b4bd7eab3ab6b28e7332b85cee8ca97_MD5.jpeg",
     "@附件/Pasted image 20240630015455.png",
-    "@附件/8aca92f9602b2049b51a0f1187543cef_MD5.jpeg",
+    "file/8aca92f9602b2049b51a0f1187543cef_MD5.jpeg",
     "@附件/Pasted image 20240630015429.png",
-    "@附件/89e85d478c3a4e6614535969d2d1a1d6_MD5.jpeg",
-    "@附件/Pasted image 20240630015358.png",
     "未命名.md",
     "@附件",
-    "AIGC/本地Lora训练.md",
-    "AIGC/Lora/道具/eva01_v2.md",
-    "AIGC/Lora/辅助/【麻瓜lora】全网首发_证件照lora3.0_v3.0.md",
-    "AIGC/Lora/角色/Makima.md",
-    "AIGC/Lora/服装/img",
-    "AIGC/Lora/服装/Crop Tops.md",
-    "AIGC/项目/龙与少年.md",
-    "AIGC/项目/未命名.md",
-    "AIGC/项目/未命名 5.md",
-    "AIGC/项目/未命名 4.md",
-    "AIGC/项目/未命名 2.md",
-    "AIGC/项目/未命名 3.md",
-    "AIGC/项目/未命名 1.md",
-    "AIGC/项目/二维码.md",
-    "AIGC/项目/img",
-    "AIGC/Colab/充分利用您的 Colab 订阅.md",
-    "AIGC/插件/XYZ图标插件.md",
-    "AIGC/SO-VITS/常见报错和解决方案.md",
-    "AIGC/SDXL模型/XXMix_9realisticSDXL.md",
-    "AIGC/SDXL模型/Copax TimeLessXL - SDXL1.0.md",
-    "AIGC/SDXL Lora/NSFW POV All In One SDXL.md",
-    "AIGC/SDXL/未命名.md",
-    "AIGC/SDXL/未命名 6.md",
-    "AIGC/SDXL/未命名 5.md",
-    "AIGC/Lora/道具",
-    "AIGC/Lora/辅助",
-    "AIGC/Lora/角色",
-    "AIGC/Lora/服装",
-    "AIGC/项目",
-    "AIGC/Colab",
-    "AIGC/插件"
+    "本地Lora训练.md",
+    "Lora/道具/eva01_v2.md",
+    "Lora/辅助/【麻瓜lora】全网首发_证件照lora3.0_v3.0.md",
+    "Lora/角色/Makima.md",
+    "Lora/服装/img",
+    "Lora/服装/Crop Tops.md",
+    "项目/龙与少年.md",
+    "项目/未命名.md",
+    "项目/未命名 5.md",
+    "项目/未命名 4.md",
+    "项目/未命名 2.md",
+    "项目/未命名 3.md",
+    "项目/未命名 1.md",
+    "项目/二维码.md",
+    "项目/img",
+    "Colab/充分利用您的 Colab 订阅.md",
+    "插件/XYZ图标插件.md",
+    "SO-VITS/常见报错和解决方案.md",
+    "SDXL模型/XXMix_9realisticSDXL.md",
+    "SDXL模型/Copax TimeLessXL - SDXL1.0.md",
+    "SDXL Lora/NSFW POV All In One SDXL.md",
+    "Lora/道具",
+    "Lora/辅助",
+    "Lora/角色",
+    "Lora/服装",
+    "项目",
+    "Colab"
   ]
 }
