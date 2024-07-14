@@ -1,4 +1,4 @@
-![](file/c8a0f4e5f0d6ab7c4f9b87eda10e3e85_MD5.jpeg)
+![](@file/c8a0f4e5f0d6ab7c4f9b87eda10e3e85_MD5.jpeg)
 
 https://civitai.com/articles/5834/silvi-v2-upscale-method-super-inteligence-large-vision-image
 
@@ -8,7 +8,7 @@ https://civitai.com/articles/5834/silvi-v2-upscale-method-super-inteligence-larg
 
 几个月前，我开始取得非常好的结果，并最终在reddit上制作了关于第一个版本SILVI的工作流程。目前，我大大改进了之前的方法，我认为我正在获得令人难以置信的结果，我想与你们分享。
 
-![](file/89e85d478c3a4e6614535969d2d1a1d6_MD5.jpeg)
+![](@file/89e85d478c3a4e6614535969d2d1a1d6_MD5.jpeg)
 
 也许有些方法可以达到类似的结果，但它们经常会产生幻觉（例如在不应该有的地方生成眼睛或头发）。当前版本的SILVI允许通过细节上采样器在细节上非常有创意，同时避免了这些幻觉的产生。
 
@@ -28,9 +28,9 @@ https://civitai.com/articles/5834/silvi-v2-upscale-method-super-inteligence-larg
 
 1. 选择检查点和VAE
 
-![](file/8aca92f9602b2049b51a0f1187543cef_MD5.jpeg)
+![](@file/8aca92f9602b2049b51a0f1187543cef_MD5.jpeg)
 2. 选择采样方法和步数
-![](file/1b4bd7eab3ab6b28e7332b85cee8ca97_MD5.jpeg)
+![](@file/1b4bd7eab3ab6b28e7332b85cee8ca97_MD5.jpeg)
 3. 选择大小（768x768可以得到良好的结果）
 这个大小将被SD UPSCALE脚本用来生成瓦片图像
 
@@ -41,13 +41,13 @@ https://civitai.com/articles/5834/silvi-v2-upscale-method-super-inteligence-larg
 ControlNet模块负责控制，以确保不会出现幻觉或者伪影
 
 6. 选择第一个ControlNet模块
-![](file/065cc55abbcc6740fb0568fc4bbd9598_MD5.jpeg)
+![](@file/065cc55abbcc6740fb0568fc4bbd9598_MD5.jpeg)
 
 控制权重值控制了缩放器细节笔画的创造力。应始终保持在此值。通过将结束控制步骤值修改为此模块的0.7到0.8之间，我们可以在物体和构图中引入大量创意，但在大多数情况下，特征的保真度会丧失。（KREA AI或MAGNIFIC AI风格）。
 
 7. 选择第二个ControlNet
-[Open: Pasted image 20240630015708.png](file/cb7b06b1f464b2cf5c9464bf5f7921a7_MD5.jpeg)
-![](file/cb7b06b1f464b2cf5c9464bf5f7921a7_MD5.jpeg)
+[Open: Pasted image 20240630015708.png](@file/cb7b06b1f464b2cf5c9464bf5f7921a7_MD5.jpeg)
+![](@file/cb7b06b1f464b2cf5c9464bf5f7921a7_MD5.jpeg)
 
 8. 选择第三个ControlNet模块
 9. 选择SD增强脚本并设置它

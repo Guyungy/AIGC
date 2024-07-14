@@ -28,15 +28,15 @@ SD2.*  768
 运行训练的程序
 https://colab.research.google.com/drive/1WYVOnGiyzVUpEDoXNW1S832r-BVsltCg#scrollTo=_u3q60di584x
 
-1. 勾选mount_drive 然后点击运行![[file/Pasted image 20230712162045.png]]
-2. 选择基础模型  Stable diffusion 1.5就可以![[file/Pasted image 20230712162207.png]]
-3. 2.2 是指如果不用2.1提供的模型 也可以选择其他模型 粘贴链接就可以 如果不需要就跳过![[file/Pasted image 20230712162233.png]]
-4. 2.3选择VAE，选择![[file/Pasted image 20230712162334.png]]
-5. 3.1是准备训练数据，只需要运行，然后回建立文件夹，直接运行，然后左侧有目录![[file/Pasted image 20230712162354.png]]
+1. 勾选mount_drive 然后点击运行![[@file/Pasted image 20230712162045.png]]
+2. 选择基础模型  Stable diffusion 1.5就可以![[@file/Pasted image 20230712162207.png]]
+3. 2.2 是指如果不用2.1提供的模型 也可以选择其他模型 粘贴链接就可以 如果不需要就跳过![[@file/Pasted image 20230712162233.png]]
+4. 2.3选择VAE，选择![[@file/Pasted image 20230712162334.png]]
+5. 3.1是准备训练数据，只需要运行，然后回建立文件夹，直接运行，然后左侧有目录![[@file/Pasted image 20230712162354.png]]
 6. 把处理集全部上传到Train data
-7. 5.1训练参数 最后的钩子要勾![[file/Pasted image 20230712162620.png]]
-8. 5.2训练参数 第一个布数![[file/Pasted image 20230712162727.png]]
+7. 5.1训练参数 最后的钩子要勾![[@file/Pasted image 20230712162620.png]]
+8. 5.2训练参数 第一个布数![[@file/Pasted image 20230712162727.png]]
 9. 5.3直接运行 不用修改
-10. 5.4 是训练设置10![[file/Pasted image 20230712162905.png]]
-11.设置为1 ![[file/Pasted image 20230712162930.png]]
+10. 5.4 是训练设置10![[@file/Pasted image 20230712162905.png]]
+11.设置为1 ![[@file/Pasted image 20230712162930.png]]
 5.5直接运行，部署三四千效果好
