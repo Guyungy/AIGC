@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "微调大模型/readme.md",
-                "mode": "source",
+                "file": "微调大模型/如何开始学习：微调大模型.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "微调大模型/readme.md",
+                "file": "微调大模型/如何开始学习：微调大模型.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "微调大模型/readme.md",
+                "file": "微调大模型/如何开始学习：微调大模型.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "微调大模型/readme.md"
+                "file": "微调大模型/如何开始学习：微调大模型.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "36ef99852e8aac33",
   "lastOpenFiles": [
-    "SO-VITS/常见报错和解决方案.md",
+    "微调大模型/未命名.md",
+    "微调大模型/如何开始学习：微调大模型.md",
     "微调大模型/readme.md",
+    "SO-VITS/常见报错和解决方案.md",
     "微调大模型",
     "AI指令/readme.md",
     "项目/readme.md",
@@ -188,8 +190,6 @@
     "Lora/服装/img",
     "Lora/服装/Crop Tops.md",
     "项目/龙与少年.md",
-    "项目/未命名.md",
-    "项目/未命名 5.md",
     "项目/img",
     "Lora/道具",
     "Lora/辅助",
