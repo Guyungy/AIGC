@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1a683849fd00026c",
+        "id": "b9ee81ea3b765950",
         "type": "tabs",
         "children": [
           {
-            "id": "b1f5e39399cf6234",
+            "id": "fd95d6929d0c417d",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "file/1b4bd7eab3ab6b28e7332b85cee8ca97_MD5.jpeg"
-              }
-            }
-          },
-          {
-            "id": "903af6c81726756a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "file/readme.md.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "file/readme.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "file/readme.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "file/readme.md.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -158,24 +139,25 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "903af6c81726756a",
+  "active": "215c2569ba6a9c43",
   "lastOpenFiles": [
-    "file/1b4bd7eab3ab6b28e7332b85cee8ca97_MD5.jpeg",
+    "Lora/服装/img/Pasted image 20230715233043.png",
+    "file/Pasted image 20230517013156.png",
+    "file/Pasted image 20230519024020.png",
+    "项目/img/Pasted image 20230519024328-tuya.jpg",
+    "项目/img/Pasted image 20230517013156-tuya.jpg",
+    "项目/img/Pasted image 20230517013516-tuya.jpg",
+    "项目/img/Pasted image 20230519023831-tuya.jpg",
+    "项目/img/Pasted image 20230517014948-tuya.jpg",
+    "项目/img/Pasted image 20230517014955-tuya.jpg",
+    "项目/img/Pasted image 20230711031128-tuya.jpg",
+    "项目/img/Pasted image 20230519024020-tuya.jpg",
     "file/readme.md.md",
     "AIGC/@附件",
-    "file/Pasted image 20230510180850.png",
-    "file/Pasted image 20230519024551.png",
     "数码博主.md",
     "AIGC.md",
     "AI工具合集.md",
     "SILVI v2 升级方法 - （超级智能大视野图像）.md",
-    "file/cb7b06b1f464b2cf5c9464bf5f7921a7_MD5.jpeg",
-    "@附件/Pasted image 20240630015708.png",
-    "file/065cc55abbcc6740fb0568fc4bbd9598_MD5.jpeg",
-    "@附件/Pasted image 20240630015601.png",
-    "@附件/Pasted image 20240630015455.png",
-    "file/8aca92f9602b2049b51a0f1187543cef_MD5.jpeg",
-    "@附件/Pasted image 20240630015429.png",
     "未命名.md",
     "@附件",
     "本地Lora训练.md",
