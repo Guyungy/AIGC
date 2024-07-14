@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b9ee81ea3b765950",
+        "id": "05f7d96dccb95742",
         "type": "tabs",
         "children": [
           {
-            "id": "fd95d6929d0c417d",
+            "id": "36ef99852e8aac33",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -147,19 +147,21 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "fd95d6929d0c417d",
+  "active": "36ef99852e8aac33",
   "lastOpenFiles": [
+    "@附件/526eb2e09134aa2ac4b4f71cf7070fda_MD5.svg",
+    "@附件/3203e8c15ff051b342e25ab3ad2ed013_MD5.svg",
+    "@附件/a0b72ca2214c6b741810ce45352e2871_MD5.svg",
+    "@附件/bdb6bdfbaf3dd788019c6925f118f34e_MD5.svg",
+    "@附件/09a5ae23ce88a39dd4690ab264696409_MD5.svg",
+    "@附件/6fc77825999a6ea883a1db52f4fe2a78_MD5.svg",
+    "@附件",
     "README.md",
     "Lora/服装/img/Pasted image 20230715233043.png",
     "file/Pasted image 20230517013156.png",
     "file/Pasted image 20230519024020.png",
     "项目/img/Pasted image 20230519024328-tuya.jpg",
     "项目/img/Pasted image 20230517013156-tuya.jpg",
-    "项目/img/Pasted image 20230517013516-tuya.jpg",
-    "项目/img/Pasted image 20230519023831-tuya.jpg",
-    "项目/img/Pasted image 20230517014948-tuya.jpg",
-    "项目/img/Pasted image 20230517014955-tuya.jpg",
-    "项目/img/Pasted image 20230711031128-tuya.jpg",
     "file/readme.md.md",
     "AIGC/@附件",
     "数码博主.md",
@@ -167,7 +169,6 @@
     "AI工具合集.md",
     "SILVI v2 升级方法 - （超级智能大视野图像）.md",
     "未命名.md",
-    "@附件",
     "本地Lora训练.md",
     "Lora/道具/eva01_v2.md",
     "Lora/辅助/【麻瓜lora】全网首发_证件照lora3.0_v3.0.md",
@@ -188,7 +189,6 @@
     "SO-VITS/常见报错和解决方案.md",
     "SDXL模型/XXMix_9realisticSDXL.md",
     "SDXL模型/Copax TimeLessXL - SDXL1.0.md",
-    "SDXL Lora/NSFW POV All In One SDXL.md",
     "Lora/道具",
     "Lora/辅助",
     "Lora/角色",
