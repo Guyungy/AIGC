@@ -11,9 +11,11 @@
             "id": "36ef99852e8aac33",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "@file/a0b72ca2214c6b741810ce45352e2871_MD5.svg"
+                "file": "Colab/readme.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@file/a0b72ca2214c6b741810ce45352e2871_MD5.svg",
+                "file": "Colab/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@file/a0b72ca2214c6b741810ce45352e2871_MD5.svg",
+                "file": "Colab/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@file/a0b72ca2214c6b741810ce45352e2871_MD5.svg"
+                "file": "Colab/readme.md"
               }
             }
           }
@@ -147,10 +149,12 @@
   },
   "active": "215c2569ba6a9c43",
   "lastOpenFiles": [
-    "@file/readme.md.md",
+    "Colab/充分利用您的 Colab 订阅.md",
+    "Colab/readme.md",
     "@file/a0b72ca2214c6b741810ce45352e2871_MD5.svg",
+    "@file/readme.md.md",
     "@file/1b4bd7eab3ab6b28e7332b85cee8ca97_MD5.jpeg",
-    "在线Lora训练.md",
+    "Colab/在线Lora训练.md",
     "ChatGPT-游戏策划关键词50个.md",
     "AI工具合集.md",
     "SILVI v2 升级方法 - （超级智能大视野图像）.md",
@@ -185,7 +189,6 @@
     "项目/未命名 2.md",
     "项目/未命名 3.md",
     "项目/未命名 1.md",
-    "项目/二维码.md",
     "项目/img",
     "Lora/道具",
     "Lora/辅助",
