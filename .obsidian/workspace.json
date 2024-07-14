@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Colab/readme.md",
+                "file": "SO-VITS/常见报错和解决方案.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Colab/readme.md",
+                "file": "SO-VITS/常见报错和解决方案.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Colab/readme.md",
+                "file": "SO-VITS/常见报错和解决方案.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Colab/readme.md"
+                "file": "SO-VITS/常见报错和解决方案.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   },
   "active": "215c2569ba6a9c43",
   "lastOpenFiles": [
-    "Colab/充分利用您的 Colab 订阅.md",
+    "AI指令/readme.md",
+    "项目/readme.md",
     "Colab/readme.md",
+    "Colab/充分利用您的 Colab 订阅.md",
     "@file/a0b72ca2214c6b741810ce45352e2871_MD5.svg",
     "@file/readme.md.md",
     "@file/1b4bd7eab3ab6b28e7332b85cee8ca97_MD5.jpeg",
@@ -187,8 +189,6 @@
     "项目/未命名 5.md",
     "项目/未命名 4.md",
     "项目/未命名 2.md",
-    "项目/未命名 3.md",
-    "项目/未命名 1.md",
     "项目/img",
     "Lora/道具",
     "Lora/辅助",
