@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chat GPT提示词 示范/思维树提示词.md",
+                "file": "SILVI v2 升级方法 - （超级智能大视野图像）.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "215eabf5bf601036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chat GPT提示词 示范/思维树提示词.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chat GPT提示词 示范/思维树提示词.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chat GPT提示词 示范/思维树提示词.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -147,10 +160,16 @@
       "obsidian-local-images-plus:Local Images Plus  0.15.9\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "36ef99852e8aac33",
+  "active": "215eabf5bf601036",
   "lastOpenFiles": [
-    "Chat GPT提示词 示范/ChatGPT 实战：快速了解一个新领域.md",
+    "@附件/image",
+    "@附件/image/未命名-1721053995977.jpeg",
+    "SILVI v2 升级方法 - （超级智能大视野图像）.md",
+    "未命名.md",
     "Chat GPT提示词 示范/思维树提示词.md",
+    "2024最强AI集合.md",
+    "@附件",
+    "Chat GPT提示词 示范/ChatGPT 实战：快速了解一个新领域.md",
     "提示词教程/大语言模型怎么写好提示词.md",
     "提示词教程/大厂都在用的结构化Prompt，把写提示词变成填空题！.md",
     "提示词教程",
@@ -170,7 +189,6 @@
     "@file/1b4bd7eab3ab6b28e7332b85cee8ca97_MD5.jpeg",
     "Colab/在线Lora训练.md",
     "AI工具合集.md",
-    "SILVI v2 升级方法 - （超级智能大视野图像）.md",
     "数码博主.md",
     "LORA显示.md",
     "Claude.md",
@@ -178,7 +196,6 @@
     "AI指令",
     "本地Lora训练.md",
     "模型显示.md",
-    "README.md",
     "@file/526eb2e09134aa2ac4b4f71cf7070fda_MD5.svg",
     "@file/3203e8c15ff051b342e25ab3ad2ed013_MD5.svg",
     "@file/bdb6bdfbaf3dd788019c6925f118f34e_MD5.svg",
@@ -187,13 +204,9 @@
     "@file",
     "Lora/服装/img/Pasted image 20230715233043.png",
     "@file/Pasted image 20230517013156.png",
-    "@file/Pasted image 20230519024020.png",
     "AIGC/@附件",
-    "未命名.md",
-    "Lora/道具/eva01_v2.md",
     "Lora/服装/img",
     "项目/img",
-    "Lora/道具",
-    "Lora/辅助"
+    "Lora/道具"
   ]
 }
